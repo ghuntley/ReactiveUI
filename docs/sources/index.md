@@ -20,7 +20,7 @@ reactiveui/)
 Ask your question on
 [StackOverflow](http://stackoverflow.com/questions/tagged/reactiveui).
 
-Also see historical PDF which explains concept/origins of RxUI - http://web.archive.org/web/20120714082000/http://www.reactiveui.net/welcome/pdf
+Also, see [historical PDF](http://web.archive.org/web/20120714082000/http://www.reactiveui.net/welcome/pdf) which explains concept/origins of RxUI.
 
 
-Watch this https://www.youtube.com/watch?v=1XNATGjqM6U and this https://www.youtube.com/watch?v=Agu6jipKfYw
+Watch [this](https://www.youtube.com/watch?v=1XNATGjqM6U) and [this](https://www.youtube.com/watch?v=Agu6jipKfYw).
